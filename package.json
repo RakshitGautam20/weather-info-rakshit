@@ -1,0 +1,19 @@
+{
+  "name": "weather-info-rakshit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RakshitGautam20/weather-info-rakshit.git"
+  },
+  "author": "Rakshit Gautam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RakshitGautam20/weather-info-rakshit/issues"
+  },
+  "homepage": "https://github.com/RakshitGautam20/weather-info-rakshit#readme"
+}
